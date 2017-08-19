@@ -1,4 +1,4 @@
-#Installing Pharo VM on Linux
+# Installing Pharo VM on Linux
 
 When running Pharo in production you might want to install the image and a VM from distribution packages. So far there were no current public packages and during the last months I have modernized the debian packaging and recently added CentOS rpm packaging as well. The process of generating new source packages is integrated into the pharo-vm travis-ci build as well.
 
