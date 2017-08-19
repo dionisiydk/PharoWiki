@@ -13,11 +13,9 @@ https://guides.github.com/features/mastering-markdown/
 http://files.pharo.org/books/
 
 ## Pharo blogs
-                                                                                                        
-http://humane-assessment.com/blog
-https://marianopeck.wordpress.com/
-https://computeradventures.wordpress.com/
 
+https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md
+                                                                                                        
 ## Pharo projects
 
 https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md
