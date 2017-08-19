@@ -1,4 +1,6 @@
-when running Pharo in production you might want to install the image and a VM from distribution packages. So far there were no current public packages and during the last months I have modernized the debian packaging and recently added CentOS rpm packaging as well. The process of generating new source packages is integrated into the pharo-vm travis-ci build as well.
+#Installing Pharo VM on Linux
+
+When running Pharo in production you might want to install the image and a VM from distribution packages. So far there were no current public packages and during the last months I have modernized the debian packaging and recently added CentOS rpm packaging as well. The process of generating new source packages is integrated into the pharo-vm travis-ci build as well.
 
 Every time that master of pharo-vm.git is updated a new source package will be uploaded to the Open(SUSE) Build Service and new packages will be built and are available in a "latest" package feed. The generated (and used) sourcecode is inside the source package and will be archived by the OBS platform (one can even nicely diff versions). The "stable" VM is not built from pharo-vm.git (yet?) so it doesn't show on OBS yet.
 
