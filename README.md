@@ -20,3 +20,4 @@ https://computeradventures.wordpress.com/
 
 ## Pharo projects
 
+https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md
