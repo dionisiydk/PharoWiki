@@ -21,3 +21,4 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 [Pharo projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md)
 
 # Contents
+[How to install Pharo VM on Linux](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/pharolinux.md)
