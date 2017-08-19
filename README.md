@@ -6,7 +6,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 
 ### What is markdown and how to use it
 
-https://guides.github.com/features/mastering-markdown/
+[official GitHub tutorial on Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Pharo books
 
