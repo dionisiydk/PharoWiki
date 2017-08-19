@@ -10,12 +10,12 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 
 ## Pharo books
 
-http://files.pharo.org/books/
+[Pharo Book[(http://files.pharo.org/books/)
 
 ## Pharo blogs
 
-https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md
+[Pharo blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md)
                                                                                                         
 ## Pharo projects
 
-https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md
+[Pharo projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md)
