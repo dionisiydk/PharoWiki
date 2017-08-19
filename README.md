@@ -10,7 +10,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 
 ## Pharo books
 
-[Pharo Book[(http://files.pharo.org/books/)
+[Pharo books](http://files.pharo.org/books/)
 
 ## Pharo blogs
 
