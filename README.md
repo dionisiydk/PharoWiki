@@ -9,13 +9,22 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 [official GitHub tutorial on Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Pharo books
+Several books on Pharo have been published
+[http://books.pharo.org/](http://books.pharo.org/)
 
-[Pharo books](http://files.pharo.org/books/)
+In addition new books are currently under writing such as 
+- A web tutorial (french and english version soon) https://github.com/SquareBracketAssociates/TinyBlogTutorial
+- Learning OOP with Pharo https://github.com/SquareBracketAssociates/LearningOOPWithPharo
 
 ## Pharo blogs
-
 [Pharo blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md)
-                                                                                                        
+
+There are a couple of active Blogs around Pharo.
+Here is a list 
+- [https://pharoweekly.wordpress.com](https://pharoweekly.wordpress.com)
+- [http://astares.blogspot.fr](http://astares.blogspot.fr)
+- [https://clementbera.wordpress.com](https://clementbera.wordpress.com)
+         
 ## Pharo projects
 
 [Pharo projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md)
