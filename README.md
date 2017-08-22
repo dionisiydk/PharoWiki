@@ -10,14 +10,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 
 |[books](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/bookss.md)   |[blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/blogs.md)|[wikis](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/wikis.md)|
 |--------|--------|-----|
-|projects|contents|misc |
+|[projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/projects.md)|[how to]((https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/howto.md))|misc |
 
 
 
-         
-## Pharo projects
-
-[Pharo projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/projects.md)
-
-# Contents
-[How to install Pharo VM on Linux](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/pharolinux.md)
