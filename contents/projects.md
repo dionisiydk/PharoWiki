@@ -271,8 +271,7 @@ and science, data journalism, data activism among others
 
 keywords: data-activism data-journalism data-science
 data-visualization documentation interactive-notebook markdown markup
-open-data open-research open-science reproducible-research
-[Home page](http://mutabit.com/grafoscopio/index.en.html#intro)
+open-data open-research open-science reproducible-research. More in and documentation at the [Home page](http://mutabit.com/grafoscopio/index.en.html#intro)
 
 ## Grease
 The Grease Portability Library
