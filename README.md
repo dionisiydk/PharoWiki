@@ -8,7 +8,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 
 [official GitHub tutorial on Markdown](https://guides.github.com/features/mastering-markdown/)
 
-|books   |blogs   |wikis|
+|books   |[blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md)|wikis|
 |--------|--------|-----|
 |projects|contents|misc |
 
