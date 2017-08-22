@@ -7,7 +7,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 # Contents
 
 |[books](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/bookss.md)|[blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/blogs.md)|[wikis](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/wikis.md)|
-|--------|--------|-----|
+|--------|--------|-------|
 |[projects](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/projects.md)|[how to](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/howto.md)|[news] (https://github.com/SquareBracketAssociates/PharoWiki/blob/master/contents/news.md)|
 
 
