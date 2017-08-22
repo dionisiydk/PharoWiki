@@ -7,7 +7,7 @@
 - SmaCC: Smalltalk Compiler Compiler : a parser generator. https://github.com/ThierryGoubier/SmaCC
 
 # Pharo 6 projects in Package Catalog
-These projects are downloadable from inside Pharo 6 using the World Menu -> Tools -> Catalog Browser
+These projects are downloadable from inside Pharo 6 using the ``` World Menu -> Tools -> Catalog Browser ```
 
 ## Animation
 Adds a delay operator turning any message send into a smooth transition.
