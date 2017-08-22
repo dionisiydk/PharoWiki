@@ -9,6 +9,7 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 [official GitHub tutorial on Markdown](https://guides.github.com/features/mastering-markdown/)
 
 |books   |blogs   |wikis|
+|--------|--------|-----|
 |projects|contents|misc |
 
 ## Pharo books
