@@ -12,13 +12,6 @@ If you are a SquareBracketsAsssociates contributor you alredy set to go. There i
 |--------|--------|-----|
 |projects|contents|misc |
 
-## Pharo books
-Several books on Pharo have been published
-[http://books.pharo.org/](http://books.pharo.org/)
-
-In addition new books are currently under writing such as 
-- A web tutorial (french and english version soon) https://github.com/SquareBracketAssociates/TinyBlogTutorial
-- Learning OOP with Pharo https://github.com/SquareBracketAssociates/LearningOOPWithPharo
 
 ## Pharo blogs
 [Pharo blogs](https://github.com/SquareBracketAssociates/PharoWiki/blob/master/blogs.md)
