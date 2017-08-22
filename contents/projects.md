@@ -1,10 +1,10 @@
 # Pharo projects on Github
-- [MOOSE][MOOSE]: - Platform for software and data analysis. [MOOSE]:http://www.moosetechnology.org/
-- [Tealight][Tealight]: Tealight is a project defining a few extensions to the Teapot framework to make the (tea) time you spend with the Pharo Teapot system even easier. [Tealight]:https://github.com/astares/Tealight
+- [MOOSE][1] is a platform for software and data analysis. [1]:http://www.moosetechnology.org/
+- [Tealight][2]  is a project defining a few extensions to the Teapot framework to make the (tea) time you spend with the Pharo Teapot system even easier. [2]:https://github.com/astares/Tealight
 
-- [Iceberg][Iceberg]: Iceberg is a set of tools that allow one to handle git repositories directly from a Pharo image. Right now we support only git, but Iceberg is designed to allow other code versioning systems in the future. The final aim of Iceberg is to become the default repository manager for Pharo-core, allowing for smoother and faster integration of contributions, as well as better branch and version management. [Iceberg]:https://github.com/pharo-vcs/iceberg
+- [Iceberg][3] is a set of tools that allow one to handle git repositories directly from a Pharo image. Right now we support only git, but Iceberg is designed to allow other code versioning systems in the future. The final aim of Iceberg is to become the default repository manager for Pharo-core, allowing for smoother and faster integration of contributions, as well as better branch and version management. [3]:https://github.com/pharo-vcs/iceberg
 
-- [SmaCC][SmaCC]: Smalltalk Compiler Compiler : a parser generator. [SmaCC]:https://github.com/ThierryGoubier/SmaCC
+- [SmaCC][4]is Smalltalk Compiler Compiler, a parser generator. [4]:https://github.com/ThierryGoubier/SmaCC
 
 # Pharo 6 projects in Package Catalog
 These projects are downloadable from inside Pharo 6 using the ``` World Menu -> Tools -> Catalog Browser ```
