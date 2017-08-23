@@ -6,3 +6,5 @@
 - [How to get all classes and Traits](https://stackoverflow.com/questions/41679953/how-to-get-all-classes-in-pharo)
 - [How to get the key with the largest value from a Dictionary](https://stackoverflow.com/questions/41074421/get-key-with-largest-value-from-a-dictionary-in-smalltalk)
 - [How to export code to a source code file](https://stackoverflow.com/questions/37690985/importing-a-gnu-smalltalk-project-into-pharo)
+- [How to format the printing of a number](https://stackoverflow.com/questions/36480249/how-to-print-a-number-with-number-of-fixed-characters-in-smalltalk-pharo)
+= [How to create a startup script](https://marianopeck.wordpress.com/2012/05/12/startuploader-running-startup-scripts-in-pharo/)
