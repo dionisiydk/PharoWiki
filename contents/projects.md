@@ -1,8 +1,9 @@
 # Pharo projects on Github
 - [MOOSE](http://www.moosetechnology.org/) is a platform for software and data analysis. 
 - [Tealight](https://github.com/astares/Tealight) is a project defining a few extensions to the Teapot framework to make the (tea) time you spend with the Pharo Teapot system even easier. 
-- [Iceberg](https://github.com/pharo-vcs/iceberg) is a set of tools that allow one to handle git repositories directly from a Pharo image. Right now we support only git, but Iceberg is designed to allow other code versioning systems in the future. The final aim of Iceberg is to become the default repository manager for Pharo-core, allowing for smoother and faster integration of contributions, as well as better branch and version management. 
+- [Iceberg](https://github.com/pharo-vcs/iceberg) is a set of tools that allow one to handle git repositories directly from a Pharo image. 
 - [SmaCC](https://github.com/ThierryGoubier/SmaCC) is Smalltalk Compiler Compiler, a parser generator. 
+- [TelePharo](https://github.com/dionisiydk/TelePharo) is a complete toolset for remote development of Pharo images. 
 
 # Pharo 6 projects in Package Catalog
 These projects are downloadable from inside Pharo 6 using the ``` World Menu -> Tools -> Catalog Browser ```
