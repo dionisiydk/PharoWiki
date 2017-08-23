@@ -4,3 +4,4 @@
 - [How to edit World Menu](https://stackoverflow.com/questions/43021482/how-can-i-edit-the-worldmenu-in-pharo)
 - [How to add a dependency to a github repo , using Metacello](https://stackoverflow.com/questions/42189233/metacello-dependency-on-a-package-from-github-project)
 - [How to get all classes and Traits](https://stackoverflow.com/questions/41679953/how-to-get-all-classes-in-pharo)
+- [How to get the key with the largest value from a Dictionary](https://stackoverflow.com/questions/41074421/get-key-with-largest-value-from-a-dictionary-in-smalltalk)
