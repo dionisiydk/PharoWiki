@@ -8,3 +8,5 @@
 - [How to export code to a source code file](https://stackoverflow.com/questions/37690985/importing-a-gnu-smalltalk-project-into-pharo)
 - [How to format the printing of a number](https://stackoverflow.com/questions/36480249/how-to-print-a-number-with-number-of-fixed-characters-in-smalltalk-pharo)
 - [How to create a startup script](https://marianopeck.wordpress.com/2012/05/12/startuploader-running-startup-scripts-in-pharo/)
+- [How to profile code](http://astares.blogspot.gr/2017/08/profiling-in-pharo.html)
+- [How to create a Snakes and Ladders game](https://translate.google.com/translate?sl=cs&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fccmi.fit.cvut.cz%2Fsmalltalk%2Fhadiazebriky%2F&edit-text=&act=url)
