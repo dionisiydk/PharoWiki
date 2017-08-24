@@ -4,6 +4,7 @@
 - [Iceberg](https://github.com/pharo-vcs/iceberg) is a set of tools that allow one to handle git repositories directly from a Pharo image. 
 - [SmaCC](https://github.com/ThierryGoubier/SmaCC) is Smalltalk Compiler Compiler, a parser generator. 
 - [TelePharo](https://github.com/dionisiydk/TelePharo) is a complete toolset for remote development of Pharo images. 
+- [Material Design Lite](https://github.com/DuneSt/MaterialDesignLite) is a binding of Google's Material Design Lite project for the web framework Seaside. It brings web components to use in web application following flat design standards. 
 
 # Pharo 6 projects in Package Catalog
 These projects are downloadable from inside Pharo 6 using the ``` World Menu -> Tools -> Catalog Browser ```
