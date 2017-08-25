@@ -11,3 +11,4 @@
 - [How to profile code](http://astares.blogspot.gr/2017/08/profiling-in-pharo.html)
 - [How to create a Snakes and Ladders game](https://translate.google.com/translate?sl=cs&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fccmi.fit.cvut.cz%2Fsmalltalk%2Fhadiazebriky%2F&edit-text=&act=url)
 - [How to write a Redis client](https://medium.com/concerning-pharo/quick-write-me-a-redis-client-5fbe4ddfb13d)
+- [How to contribute to the development of Pharo](https://github.com/guillep/PharoIntegrationProcess/wiki/Pharo-Development-Process)
