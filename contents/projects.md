@@ -5,6 +5,7 @@
 - [SmaCC](https://github.com/ThierryGoubier/SmaCC) is Smalltalk Compiler Compiler, a parser generator. 
 - [TelePharo](https://github.com/dionisiydk/TelePharo) is a complete toolset for remote development of Pharo images. 
 - [Workflow](https://github.com/Netstyle/Workflow) is powerful and extensible workflow management engine
+- [Mocketry](https://github.com/dionisiydk/Mocketry) is a mock objects framework which provides simplest way to stub any message to any object and to verify any occurred behaviour
 
 # Pharo 6 projects in Package Catalog
 These projects are downloadable from inside Pharo 6 using the ``` World Menu -> Tools -> Catalog Browser ```
